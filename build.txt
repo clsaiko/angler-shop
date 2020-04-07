@@ -1,0 +1,3 @@
+author = clsaiko
+version = 0.1
+displayName = Toph's Angler Shop
